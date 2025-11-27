@@ -105,7 +105,7 @@ A machine learning-based platform that recommends personalized fitness workouts 
 
 | Feature             | Description                                         |
 | ------------------- | --------------------------------------------------- |
-| Accuracy            | 87% supervised learning                             |
+| Accuracy            | 97% supervised learning                             |
 | Similarity Matrix   | 1,324 × 1,324 validated                             |
 | Engineered Features | 9 key features explained                            |
 | Class Balance       | SMOTE resampling applied                            |
